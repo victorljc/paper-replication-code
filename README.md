@@ -10,7 +10,7 @@ and shareable processed data for the manuscript:
 ## Repository structure
 
 （1）Original carbon data from CEADS is carbon_sum.xlsx
- (2) code pdf is the smcl file.
+ (2) code13 is the do file of our stata programme.
 ## Software requirements
 
 The analysis was conducted using Stata 18.0.
