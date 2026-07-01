@@ -29,4 +29,4 @@ The source code in this repository is licensed under the MIT License.The author-
 
 ## Contact
 
-For questions about the code and data, please contact the corresponding author.
+For questions about the code and data, please contact the corresponding author jl3a17soton@gmail.com
